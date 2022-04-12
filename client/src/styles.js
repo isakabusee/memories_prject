@@ -14,6 +14,7 @@ export default makeStyles((theme) => ({
       },
       image: {
         marginLeft: '15px',
+        height: '150px',
       },
       [theme.breakpoints.down('sm')]: {
         mainContainer: {
