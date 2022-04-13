@@ -49,7 +49,7 @@ export default makeStyles({
     display: 'flex',
     justifyContent: 'space-between',
   },
-  // image: {
-  //   height: 140,
-  // }
+  image: {
+    height: '40px',
+  }
 });
